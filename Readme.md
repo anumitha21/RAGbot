@@ -1,6 +1,6 @@
 # 🤖 RAG Chatbot
 
-**RAG Chatbot** is a minimal, plug-and-play Retrieval-Augmented Generation (RAG) framework that lets you chat with content scraped from websites or loaded from PDFs. Powered by LLMs like **Groq** and **Gemini**.
+**RAG Chatbot** is a minimal, plug-and-play Retrieval-Augmented Generation (RAG) framework that lets you chat with content scraped from loaded from PDFs. Powered by LLMs like **Groq** and **Gemini**.
 
 ---
 
@@ -71,7 +71,7 @@ jupyter notebook RAG_CHATBOT.ipynb
 
 ## 💡 Usage
 
--  Load data from a **URL** or **PDF**
+-  Load data from a  **PDF**
 -  Ask natural language questions
 -  RAG retrieves relevant context
 -  LLM generates intelligent, context-aware answers
