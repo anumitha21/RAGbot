@@ -1,4 +1,4 @@
-# 🧠 RAG Chatbot
+# 🤖 RAG Chatbot
 
 **RAG Chatbot** is a minimal, plug-and-play Retrieval-Augmented Generation (RAG) framework that lets you chat with content scraped from websites or loaded from PDFs. Powered by LLMs like **Groq** and **Gemini**.
 
