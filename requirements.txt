@@ -1,0 +1,7 @@
+ipykernel
+langchain_community
+pypdf
+langchain_google_genai
+chromadb
+langchain_groq
+langchain_core
