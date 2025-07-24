@@ -6,20 +6,20 @@
 
 ## ✨ Features
 
-- 🌐 Web scraping with LangChain's `WebBaseLoader`
-- 📄 PDF ingestion using `PyPDF`
-- 🧠 Smart context retrieval via ChromaDB
-- 🤖 Answers powered by Groq or Gemini LLMs
-- 💻 Notebook-ready pipeline
+-  Web scraping with LangChain's `WebBaseLoader`
+-  PDF ingestion using `PyPDF`
+-  Smart context retrieval via ChromaDB
+-  Answers powered by Groq or Gemini LLMs
+-  Notebook-ready pipeline
 
 ---
 
 ## 🛠️ Requirements
 
-- 🐍 Python 3.8+
-- 📦 pip
-- 📓 Jupyter Notebook 
-- 🔐 API keys for:
+-  Python 3.8+
+-  pip
+-  Jupyter Notebook 
+-  API keys for:
   - Groq
   - Google Gemini
 
@@ -27,13 +27,13 @@
 
 ## 📦 Installation
 
-1. 🚀 **Clone the repo**
+1.  **Clone the repo**
    ```bash
    git clone https://github.com/yourusername/rag-chatbot.git
    cd rag-chatbot
    ```
 
-2. 🧪 **Create & activate virtual environment**
+2.  **Create & activate virtual environment**
    ```bash
    python -m venv rag
    # On Windows:
@@ -42,7 +42,7 @@
    source rag/bin/activate
    ```
 
-3. 📥 **Install dependencies**
+3.  **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
@@ -58,13 +58,12 @@ GROQ_API_KEY=your-groq-api-key
 GOOGLE_API_KEY=your-gemini-api-key
 ```
 
-> 💡 Use `.env` for safe and flexible key management.
+>  Use `.env` for safe and flexible key management.
 
 ---
 
 ## 🚀 Running the Project
 
-### 📓 Run via Jupyter Notebook
 ```bash
 jupyter notebook RAG_CHATBOT.ipynb
 ```
@@ -72,10 +71,10 @@ jupyter notebook RAG_CHATBOT.ipynb
 
 ## 💡 Usage
 
-- 🧾 Load data from a **URL** or **PDF**
-- ❓ Ask natural language questions
-- 📚 RAG retrieves relevant context
-- 🤖 LLM generates intelligent, context-aware answers
+-  Load data from a **URL** or **PDF**
+-  Ask natural language questions
+-  RAG retrieves relevant context
+-  LLM generates intelligent, context-aware answers
 
 ---
 
